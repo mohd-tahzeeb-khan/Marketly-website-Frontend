@@ -4,7 +4,7 @@ import logo from '../../../public/images/logo.png'
 import { Roboto_Slab_font, Roboto_Slab_font_bold } from '../font'
 import Link from 'next/link'
 
-const header = () => {
+const Header = () => {
   
   return (
     <>
@@ -25,4 +25,4 @@ const header = () => {
   )
 }
 
-export default header
+export default Header

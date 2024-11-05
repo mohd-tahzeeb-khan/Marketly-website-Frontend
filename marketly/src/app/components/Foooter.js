@@ -15,7 +15,7 @@ import Facebook from '../../../public/images/icon/facebook.svg';
 import Telegram from '../../../public/images/icon/telegram.svg';
 import Twitter from '../../../public/images/icon/twitterX.svg';
 import Whatsapp from '../../../public/images/icon/whatsapp.svg';
-const footer = () => {
+const Foooter = () => {
   const [IsHovered, setIsHovered] = useState(false)
   const {x, y}=useMousePosition();
   const size=400;
@@ -60,4 +60,4 @@ const footer = () => {
   )
 }
 
-export default footer
+export default Foooter
