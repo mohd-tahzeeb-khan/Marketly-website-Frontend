@@ -45,7 +45,6 @@ const footer = () => {
                   <Link className='text-xl font-bold bg-transparent hover:scale-105 hover:duration-150 w-1/2'  href={""}><Image  className='bg-transparent' src={Telegram} width={200} height={200} alt='socail-Media-Icons'></Image></Link>
                   <Link className='text-xl font-bold bg-transparent hover:scale-105 hover:duration-150 w-1/2'  href={""}><Image  className='bg-transparent' src={Twitter} width={200} height={200} alt='socail-Media-Icons'></Image></Link>
                   <Link className='text-xl font-bold bg-transparent hover:scale-105 hover:duration-150 w-1/2'  href={""}><Image  className='bg-transparent' src={Facebook} width={200} height={200} alt='socail-Media-Icons'></Image></Link>
-                  <Link className='text-xl font-bold bg-transparent hover:scale-105 hover:duration-150 w-1/2'  href={""}><Image  className='bg-transparent' src={Linkedin} width={200} height={200} alt='socail-Media-Icons'></Image></Link>
                   <Link className='text-xl font-bold bg-transparent hover:scale-105 hover:duration-150 w-1/2'  href={""}><Image  className='bg-transparent' src={Quaro} width={200} height={200} alt='socail-Media-Icons'></Image></Link>
                   </div>
               </motion.div>
